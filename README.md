@@ -114,19 +114,6 @@ python main.py --dpo custom_compound \
 - **TDC Target Protein Oracles**: [https://tdcommons.ai/functions/oracles](https://tdcommons.ai/functions/oracles)
   - Therapeutics Data Commons oracle functions
 
-## 🏗️ Project Structure
-
-```
-MolRL-MGA/
-├── 📁 agents/          # Multi-agent implementations
-├── 📁 environments/    # RL environments for molecular tasks
-├── 📁 models/          # Neural network architectures
-├── 📁 oracles/         # Evaluation functions
-├── 📁 utils/           # Utility functions
-├── 📁 results/         # Output directory
-├── 📁 priors/          # Pre-trained model files
-└── 📄 main.py          # Main execution script
-```
 
 ## 📈 Results
 
