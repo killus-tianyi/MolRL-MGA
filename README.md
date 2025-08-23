@@ -120,11 +120,6 @@ python main.py --dpo custom_compound \
 ![Experimental Results](image/res.png)
 *Figure 3: Performance comparison and experimental results showing the effectiveness of the multi-agent approach across different molecular optimization tasks*
 
-The framework demonstrates significant improvements in:
-- 🎯 **Target Affinity**: Enhanced binding predictions
-- 🔄 **Diversity**: Increased molecular scaffold diversity
-- ⚡ **Efficiency**: Faster convergence compared to single-agent approaches
-- 🏆 **Multi-Objective**: Balanced optimization across multiple properties
 
 ## 📄 License
 
